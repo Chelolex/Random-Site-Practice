@@ -118,3 +118,7 @@ section.justGazeUp{
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #f5f5f5;
+}
